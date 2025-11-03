@@ -43,9 +43,9 @@ st.markdown("""
 
 # Sidebar with contact info
 with st.sidebar:
-    st.image("https://i.pravatar.cc/300?img=68", width=100)
+    st.image("cartoon Lisa Silva (300 x 300 px).jpg", width=100)
     st.title("Lisa Silva")
-    st.markdown("**Staff AI Engineer**")
+    st.markdown("**AI Engineer | GRC Specialist**")
     st.markdown("---")
     st.markdown("📧 **lisa-silva-2026@proton.com**")
     st.markdown("📱 **669.661.1140**")
