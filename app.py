@@ -43,7 +43,8 @@ st.markdown("""
 
 # Sidebar with contact info
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=100)
+    st.image("# Go with the female avatar for initial application")
+    st.image("https://i.pravatar.cc/300?img=68", width=100)
     st.title("Lisa Silva")
     st.markdown("**Staff AI Engineer**")
     st.markdown("---")
